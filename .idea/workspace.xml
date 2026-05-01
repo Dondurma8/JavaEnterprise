@@ -5,45 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="541df0ac-79d2-4913-a655-408ba7893c2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/StaffController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/api/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/api/DishDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/api/IngredientDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/api/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/entities/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/entities/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/entities/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/impl/jdbc/DishDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/impl/jdbc/DishServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/impl/jdbc/IngredientDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/impl/jdbc/IngredientServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/view/DishTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/manytomany/view/MainRecipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/CarsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/EngineController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/EntityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/GearsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/MainCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/onetoone/Transmission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/storageProperties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaEnterprise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/DeleteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/DeleteExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/InsertExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/InsertExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/SelectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/SelectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/UpdateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/basic/UpdateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/MainEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/MainEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/StaffID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbc/orm/embedded/StaffID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +179,10 @@
       <workItem from="1757283914807" duration="1462000" />
       <workItem from="1757623183116" duration="10000" />
       <workItem from="1757769619817" duration="2000" />
-      <workItem from="1777568143800" duration="1823000" />
+      <workItem from="1777568143800" duration="2447000" />
+      <workItem from="1777571684469" duration="8000" />
+      <workItem from="1777572288987" duration="1000" />
+      <workItem from="1777630552095" duration="22000" />
     </task>
     <servers />
   </component>
